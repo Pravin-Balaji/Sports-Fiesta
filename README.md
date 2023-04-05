@@ -6,6 +6,19 @@ This is my first project for We Development. There are login/signup, home, shop,
 
 
 
+## TechStack
+
+`HTML`
+
+`CSS`
+
+`Javascript`
+
+`NodeJs`
+
+`ExpressJs`
+
+
 ## Login/Signup page
 
 ![App Screenshot](https://github.com/Pravin-Balaji/Sports-Fiesta/blob/main/images/Login.png)
